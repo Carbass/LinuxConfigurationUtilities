@@ -13,7 +13,7 @@ fi
 
 echo ""
 echo "Lista de programas:"
-DIR_SCRIPTS=programs/*
+DIR_SCRIPTS=scripts/*
 ITERATOR=0
 
 for f in $DIR_SCRIPTS
